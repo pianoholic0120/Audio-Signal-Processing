@@ -1,4 +1,4 @@
-# Audio Signal Processing – Final Project (Spring 2025)
+# Audio Signal Processing – Mid Project (Spring 2025)
 國立臺灣大學《傅立葉轉換與傅立葉光學》課程專題
 
 > Student ID: B10901151  
