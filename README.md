@@ -23,6 +23,7 @@ This project performs a series of audio signal processing tasks using MATLAB, fo
 | `Project.m4a`     | Original audio file (9s, stereo)   |
 | `Project.pdf`     | Full written report with plots and explanations |
 | `README.md`       | This summary document              |
+| `PJ1.pdf`         | This is the project description and questions |
 
 ---
 
