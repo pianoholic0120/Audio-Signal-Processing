@@ -1,5 +1,5 @@
 # Audio Signal Processing – Mid Project (Spring 2025)
-國立臺灣大學《傅氏與傅氏光學》課程專題
+國立臺灣大學《傅氏轉換與傅氏光學》課程專題
 
 > Student ID: B10901151  
 > Name: 林祐群  
